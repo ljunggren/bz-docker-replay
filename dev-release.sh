@@ -10,7 +10,7 @@ set -ex
 USERNAME=styrman
 
 # image name
-IMAGE=boozang-runner-dev
+IMAGE=boozang-runner-replay
 
 # run build
 ./build-dev.sh

@@ -10,7 +10,7 @@ set -ex
 USERNAME=styrman
 
 # image name
-IMAGE=boozang-runner
+IMAGE=boozang-runner-replay
 
 # ensure we're up to date
 git pull
