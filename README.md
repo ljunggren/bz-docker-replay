@@ -34,7 +34,7 @@ docker run --rm -e "RECORD_REPLAY_API_KEY=___YOUR_REPLAY_IO_API_KEY___" styrman/
   
 ```
 docker run --rm -e "RECORD_ALL_CONTENT=1" -e "RECORD_REPLAY_API_KEY=___YOUR_REPLAY_IO_API_KEY___" styrman/boozang-runner-replay "___Boozang-test-url___"
-
+```
 
 ## Known issues
 
